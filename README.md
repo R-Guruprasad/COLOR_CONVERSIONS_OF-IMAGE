@@ -91,7 +91,7 @@ cv2.imshow('Image Window', res_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![image](https://github.com/user-attachments/assets/86c5041d-2b34-4ba7-8ef9-6ebbe57a1bff)
+![image](https://github.com/user-attachments/assets/e092accd-af75-4193-a6ab-7600f4c73ce5)
 
 #### Circle
 ```
