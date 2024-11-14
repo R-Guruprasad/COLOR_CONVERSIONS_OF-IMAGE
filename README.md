@@ -81,7 +81,7 @@ import cv2
 
 img = cv2.imread("08.JPG")
 start=(0,0)
-stop=(409,529)
+stop=(500,500)
 color=(100,255,100)
 thickness=10
 
